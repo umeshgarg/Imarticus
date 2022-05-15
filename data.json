@@ -1,0 +1,153 @@
+{
+    "myCourses": {
+        "recentActivity": {
+            "title": "Introduction to Machine Learning",
+            "image": "assets/ima",
+            "percentageCompleted": ""
+        },
+        "individualCourse": [
+            {
+                "title": "Introduction to Machine Learning",
+                "image": "",
+                "percentageCompleted": ""
+            }
+        ]
+    },
+    "myGroups": [
+        {
+            "title": "Intro to Machine Learning",
+            "image": ""
+        }
+    ],
+    "explore": [
+        {
+            "title": "Free Courses",
+            "courses": [
+                {
+                    "title": "Introduction to Machine Learning",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "C Programming",
+                    "image": "",
+                    "enrollments": "1178",
+                    "rating": "4.5",
+                    "ratingCount": "992"
+                },
+                {
+                    "title": "C++ Programming",
+                    "image": "",
+                    "enrollments": "1062",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "Data Structure in C",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "Java Programming Course",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "Web Development",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "Blockchain and Cryptocurrency",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "MATLAB Course",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "Solid Works online",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "Graphic Design",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                }
+            ]
+        },
+        {
+            "title": "Premium Programs",
+            "programs": [
+                {
+                    "title": "Certified Investment Banking",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "PGP IN NEW AGE BANKING",
+                    "image": "",
+                    "enrollments": "1178",
+                    "rating": "4.5",
+                    "ratingCount": "992"
+                },
+                {
+                    "title": "A Digital Marketing Program like Nowhere else",
+                    "image": "",
+                    "enrollments": "1062",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "Post graduate programm",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "A data science Course",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "Financial Analysis",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                },
+                {
+                    "title": "Professional Certificate in FINTECH",
+                    "image": "",
+                    "enrollments": "1809",
+                    "rating": "4.5",
+                    "ratingCount": "868"
+                }
+            ]
+        }
+    ]
+}
